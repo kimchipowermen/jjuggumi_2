@@ -1,0 +1,6 @@
+﻿  mugunghwa.c
+C:\Users\R260\source\repos\jjuggumigame\jjuggumigame\mugunghwa.c(212,21): warning C4020: 'dialog': 실제 매개 변수가 너무 많습니다.
+C:\Users\R260\source\repos\jjuggumigame\jjuggumigame\mugunghwa.c(221,21): warning C4020: 'dialog': 실제 매개 변수가 너무 많습니다.
+C:\Users\R260\source\repos\jjuggumigame\jjuggumigame\mugunghwa.c(280,21): warning C4020: 'dialog': 실제 매개 변수가 너무 많습니다.
+C:\Users\R260\source\repos\jjuggumigame\jjuggumigame\mugunghwa.c(330,22): warning C4020: 'dialog': 실제 매개 변수가 너무 많습니다.
+  jjuggumigame.vcxproj -> C:\Users\R260\source\repos\jjuggumigame\x64\Debug\jjuggumigame.exe
